@@ -1,0 +1,9 @@
+git init
+git status
+git commit -m
+git push
+git push -u
+git pull
+git checkout
+git checkout -b
+git merge
